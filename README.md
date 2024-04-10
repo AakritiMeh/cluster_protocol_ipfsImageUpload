@@ -1,40 +1,9 @@
-## Getting Started
+This is an IPFS image upload thirdweb-application, which allows you to safely store your images onto ipfs
 
-Create a project using this example:
+The image you upload will be visible on the screen after its uploaded.In the console, you can alsosee the IPFS link where it has been uploaded
 
-```bash
-npx thirdweb create --template next-javascript-starter
-```
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-On `pages/_app.js`, you'll find our `ThirdwebProvider` wrapping your app, this is necessary for our [hooks](https://portal.thirdweb.com/react) and
-[UI Components](https://portal.thirdweb.com/ui-components) to work.
+Here is an example for the same that has been executed
 
-## Environment Variables
-
-To run this project, you will need to add environment variables. Check the `.env.example` file for all the environment variables required and add it to `.env.local` file or set them up on your hosting provider.
-
-## Deploy to IPFS
-
-Deploy a copy of your application to IPFS using the following command:
-
-```bash
-yarn deploy
-```
-
-## Learn More
-
-To learn more about thirdweb and Next.js, take a look at the following resources:
-
-- [thirdweb React Documentation](https://docs.thirdweb.com/react) - learn about our React SDK.
-- [thirdweb JavaScript Documentation](https://docs.thirdweb.com/react) - learn about our JavaScript/TypeScript SDK.
-- [thirdweb Portal](https://docs.thirdweb.com/react) - check our guides and development resources.
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Templates](https://thirdweb.com/templates)
-
-You can check out [the thirdweb GitHub organization](https://github.com/thirdweb-dev) - your feedback and contributions are welcome!
-
-## Join our Discord!
-
-For any questions, suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
+![image](https://github.com/AakritiMeh/cluster_protocol_ipfsImageUpload/assets/118741534/6d5f66b0-4114-49c4-ab79-6cad1d536af0)
